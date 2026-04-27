@@ -8,7 +8,7 @@
 
 ## What it is
 
-DATAROOM is on-premises AI for the diligence phase of M&A — document ingestion, financial model interrogation, contract anomaly detection, deal-room search and synthesis — all running on the buyer's or seller's own hardware. No cloud LLM. No third-party inference. No deal documents touching the internet.
+DATAROOM is on-premises AI for the diligence phase of M&A, document ingestion, financial model interrogation, contract anomaly detection, deal-room search and synthesis, all running on the buyer's or seller's own hardware. No cloud LLM. No third-party inference. No deal documents touching the internet.
 
 Built for M&A teams whose target documents are too sensitive for off-the-shelf cloud diligence platforms.
 
