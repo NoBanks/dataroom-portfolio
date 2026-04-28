@@ -20,15 +20,15 @@ Three short deck videos with original NoBanks music.
 
 **The procurement and deployment spec:**
 
-<!-- DROP-VIDEO-1 -->
+https://github.com/user-attachments/assets/ded10740-227e-489c-8a98-bd9113333a31
 
 **The sovereign architecture:**
 
-<!-- DROP-VIDEO-2 -->
+https://github.com/user-attachments/assets/579e34b7-f569-43b7-b72e-0220c3e10793
 
 **The architectural opt-out for multi-billion-dollar deals:**
 
-<!-- DROP-VIDEO-3 -->
+https://github.com/user-attachments/assets/8e879d1d-8ca6-4088-8ea9-adf5a7039996
 
 ---
 
